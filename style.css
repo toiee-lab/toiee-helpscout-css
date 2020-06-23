@@ -1,0 +1,10 @@
+#fullArticle .index-list {
+	background: #F9FAFA;
+	border-left: 4px solid #AAAEB7;
+	margin: 3em 0;
+	padding: 15px 0px;
+}
+
+#fullArticle dt {
+	background: #5291C8;
+}
