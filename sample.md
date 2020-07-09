@@ -8,24 +8,15 @@
 
 ```
 <dl>
-	<dt>1</dt>
-	<dd>I call it luck. I care. So, what do you think of her, Han? She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander.</dd>
-	<dt>2</dt>
-	<dd>The Force is strong with this one. I have you now. Your eyes can deceive you. Don't trust them. I'm surprised you had the courage to take the responsibility yourself.</dd>
+<dt>1</dt>
+<dd>I call it luck. I care. So, what do you think of her, Han? She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander.</dd>
+
+<dt>2</dt>
+<dd>The Force is strong with this one. I have you now. Your eyes can deceive you. Don't trust them. I'm surprised you had the courage to take the responsibility yourself.</dd>
+
 </dl>
 ```
 
-## 目次ボックス
-
-```
-<section class="index-list">
-#### 目次
-
-- [タイトル](#innerlink1)
-- [タイトル](#innerlink2)
-
-</section>
-```
 
 ## Callout
 
@@ -72,7 +63,7 @@ Just add class="callout-yellow". It's really that easy.
 ```
 
 
-灰色
+灰色（目次に使う）
 ```
 <section class="callout-gray">
 ### This is a gray callout
